@@ -10,4 +10,4 @@ st by going to the following link.
 I will make sure this repository is current with the latest suckless version. It will just have my own customizations for the application.
 If you would like to read the original readme for this, please reference the link below.
 
-- [[README|README]]
+- [README](https://github.com/n3s0/st/blob/master/README)
